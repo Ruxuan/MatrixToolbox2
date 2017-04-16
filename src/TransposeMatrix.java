@@ -1,5 +1,3 @@
-package com.company;
-
 public class TransposeMatrix extends CoefficientMatrix {
     int transposeRows;
     int transposeCols;

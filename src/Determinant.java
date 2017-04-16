@@ -1,5 +1,3 @@
-package com.company;
-
 public class Determinant extends CoefficientMatrix {
     double det;
     boolean detExist;

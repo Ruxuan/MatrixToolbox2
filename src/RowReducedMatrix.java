@@ -1,5 +1,3 @@
-package com.company;
-
 public class RowReducedMatrix extends AugmentedMatrix {
     String[] soln;
     boolean consistent = true;

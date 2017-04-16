@@ -1,5 +1,3 @@
-package com.company;
-
 public class InverseMatrix extends CoefficientMatrix {
     boolean invertible;
 

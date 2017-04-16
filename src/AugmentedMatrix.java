@@ -1,5 +1,3 @@
-package com.company;
-
 public class AugmentedMatrix extends CoefficientMatrix{
     int bCol;
     double[][] bMatrix;

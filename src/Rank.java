@@ -1,5 +1,3 @@
-package com.company;
-
 public class Rank extends CoefficientMatrix {
     int rank;
 
