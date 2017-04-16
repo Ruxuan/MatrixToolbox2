@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="MatrixToolbox">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/artifacts/MatrixToolbox_jar/MatrixToolbox.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
